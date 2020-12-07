@@ -9,3 +9,5 @@ food list
 7.Pasta
 8.pizza
 9.noodles
+10.Kulche
+11.katakari
